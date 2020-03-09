@@ -8,6 +8,7 @@
 # Software Link: http://www.echatserver.com/ecssetup.exe
 # Platforms: Windows
 # Version: 3.1
+# CVE: CVE-2019-20502
 # Tested on: Windows Windows 7_x86/7_x64 [eng]
 #---------------------------------------------------------
 #
