@@ -1,4 +1,4 @@
-# EasyChatServer-DOS CVE-2019-20502
+# EasyChatServer-DOS (CVE-2019-20502)
 Easy Chat Server Version 3.1 (Remote DOS)
 
 ```
